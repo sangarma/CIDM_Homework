@@ -9,7 +9,7 @@ class Program
 
         Console.WriteLine("Enter the second number (b):");
         int b = Convert.ToInt32(Console.ReadLine()); //takes second integer from user
-        Console.WriteLine($"a:{a}; b:{b}");
+        Console.WriteLine($"a = {a}; b = {b}");
         
         int largestNumber = Islargest(a, b); //calls the function Islargest
         Console.WriteLine("The largest number is: " + largestNumber); //prints out the result
