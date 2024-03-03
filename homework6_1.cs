@@ -1,4 +1,4 @@
-﻿namespace HomeWork7;
+﻿namespace HomeWork6;
 
 class Program
 {
